@@ -1,0 +1,1 @@
+In a Firebase project, I encountered an issue where data wasn't updating in real-time using Firebase's Realtime Database.  The `onValue` listener seemed to be working fine, but updates made through the Firebase console or another client weren't reflected in my app. The code was structured to fetch data and update the UI accordingly.
